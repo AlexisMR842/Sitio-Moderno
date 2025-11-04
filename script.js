@@ -20,3 +20,5 @@ document.getElementById('contact-form').addEventListener('submit', (e) => {
   alert('Se envió el correo.');
   e.target.reset();
 });
+
+// commit 3: mejora de interacción
